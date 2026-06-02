@@ -20,7 +20,7 @@ Claude-powered sales workflow MVP that helps sales teams upload account data, an
 
 **Focus areas:** AI sales workflows, account prioritization, sales automation, customer intelligence
 
-### Evolutionary Poker AI
+### [Evolutionary Poker AI](https://github.com/dandsw/evolutionary-poker-ai)
 
 Java-based Texas Hold’em simulator that evolves neural-network poker agents through genetic algorithms and repeated simulated gameplay.
 
