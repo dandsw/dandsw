@@ -10,7 +10,7 @@ I’m especially interested in AI and cloud technology companies where I can com
 
 ## Featured Projects
 
-### AI Sales Workspace
+### [AI Sales Workspace](https://github.com/dandsw/ai-sales-workspace)
 
 Claude-powered sales workflow MVP that helps sales teams upload account data, analyze prospects, generate outreach, and create downloadable sales artifacts through a chat interface.
 
