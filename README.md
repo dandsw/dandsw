@@ -43,4 +43,4 @@ Java-based Texas Hold’em simulator that evolves neural-network poker agents th
 ## Links
 
 [LinkedIn](https://www.linkedin.com/in/deven-walsh)
-Email: [devenwalsh12@gmail.com](mailto:devenwalsh12@gmail.com)
+Email: [deven.walsh@outlook.com](mailto:deven.walsh@outlook.com)
